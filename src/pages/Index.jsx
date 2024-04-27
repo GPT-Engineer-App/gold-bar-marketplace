@@ -30,17 +30,6 @@ const Index = () => {
             Buy Now
           </Button>
         </Box>
-
-        <Box>
-          <Image src="https://images.unsplash.com/photo-1629212093109-354efe3fc541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxqZXdlbGxlcnklMjBzdG9yZXxlbnwwfHx8fDE3MTQyMTU0Nzh8MA&ixlib=rb-4.0.3&q=80&w=1080" borderRadius="md" maxW="500px" />
-          <Text fontSize="2xl" mt={2} fontWeight="bold">
-            Visit Our Store
-          </Text>
-          <Text fontSize="md">Explore our exclusive collection in person.</Text>
-          <Button mt={4} leftIcon={<Icon as={FaGem} />} colorScheme="yellow">
-            Get Directions
-          </Button>
-        </Box>
       </VStack>
     </Box>
   );
