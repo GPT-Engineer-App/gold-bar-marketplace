@@ -21,7 +21,7 @@ const Index = () => {
 
       <VStack spacing={8} mt={10}>
         <Box>
-          <Image src="https://images.unsplash.com/photo-1610375461246-83df859d849d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxnb2xkJTIwYmFyc3xlbnwwfHx8fDE3MTQyMTU0Nzh8MA&ixlib=rb-4.0.3&q=80&w=1080" borderRadius="md" />
+          <Image src="https://images.unsplash.com/photo-1610375461246-83df859d849d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxnb2xkJTIwYmFyc3xlbnwwfHx8fDE3MTQyMTU0Nzh8MA&ixlib=rb-4.0.3&q=80&w=1080" borderRadius="md" maxW="500px" />
           <Text fontSize="2xl" mt={2} fontWeight="bold">
             Gold Bars 99.99
           </Text>
@@ -32,7 +32,7 @@ const Index = () => {
         </Box>
 
         <Box>
-          <Image src="https://images.unsplash.com/photo-1629212093109-354efe3fc541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxqZXdlbGxlcnklMjBzdG9yZXxlbnwwfHx8fDE3MTQyMTU0Nzh8MA&ixlib=rb-4.0.3&q=80&w=1080" borderRadius="md" />
+          <Image src="https://images.unsplash.com/photo-1629212093109-354efe3fc541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxqZXdlbGxlcnklMjBzdG9yZXxlbnwwfHx8fDE3MTQyMTU0Nzh8MA&ixlib=rb-4.0.3&q=80&w=1080" borderRadius="md" maxW="500px" />
           <Text fontSize="2xl" mt={2} fontWeight="bold">
             Visit Our Store
           </Text>
